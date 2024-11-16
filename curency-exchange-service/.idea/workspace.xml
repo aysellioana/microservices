@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a2959d9-b84d-4f88-bfff-e57862b21a89" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ot6ZeXd8BpmpkGszi7Rwkl1GQX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CurencyExchangeServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurencyExchangeServiceApplication8000.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurencyExchangeServiceApplication8001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/abatcoveanu/Desktop/microservices/curency-exchange-service&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.44367817&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.in28minutes.microservices.curency_exchange_service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.in28minutes.microservices.curency_exchange_service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CurencyExchangeServiceApplication8000">
+    <configuration name="CurencyExchangeServiceApplication8000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="server.port" value="8000" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.microservices.curency_exchange_service.CurencyExchangeServiceApplication8000" />
+      <module name="curency-exchange-service" />
+      <option name="PROGRAM_PARAMETERS" value="server.port=8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.microservices.curency_exchange_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurencyExchangeServiceApplication8001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="server.port" value="8001" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.microservices.curency_exchange_service.CurencyExchangeServiceApplication8001" />
+      <module name="curency-exchange-service" />
+      <option name="PROGRAM_PARAMETERS" value="server.port=8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.microservices.curency_exchange_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CurencyExchangeServiceApplication8000" />
+      <item itemvalue="Application.CurencyExchangeServiceApplication8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CurencyExchangeServiceApplication8000" />
+        <item itemvalue="Application.CurencyExchangeServiceApplication8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a2959d9-b84d-4f88-bfff-e57862b21a89" name="Changes" comment="" />
+      <created>1731676581336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731676581336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/curency_exchange_service$CurencyExchangeServiceApplication8000.ic" NAME="CurencyExchangeServiceApplication8000 Coverage Results" MODIFIED="1731683555062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.in28minutes.microservices.curency_exchange_service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
